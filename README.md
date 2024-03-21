@@ -19,3 +19,8 @@ Require python 3
 
 - [@Marcucus0](https://github.com/Marcucus0/)
 
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
